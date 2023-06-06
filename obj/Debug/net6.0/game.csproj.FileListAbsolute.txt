@@ -1,0 +1,15 @@
+C:\Users\Michal\source\repos\game\bin\Debug\net6.0\game.exe
+C:\Users\Michal\source\repos\game\bin\Debug\net6.0\game.deps.json
+C:\Users\Michal\source\repos\game\bin\Debug\net6.0\game.runtimeconfig.json
+C:\Users\Michal\source\repos\game\bin\Debug\net6.0\game.dll
+C:\Users\Michal\source\repos\game\bin\Debug\net6.0\game.pdb
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.csproj.AssemblyReference.cache
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.AssemblyInfo.cs
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.dll
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\refint\game.dll
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.pdb
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\game.genruntimeconfig.cache
+C:\Users\Michal\source\repos\game\obj\Debug\net6.0\ref\game.dll
